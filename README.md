@@ -2,4 +2,4 @@
 script draft
 
 
-apa liat?
+apa liat-liat?
