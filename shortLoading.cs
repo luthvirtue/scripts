@@ -1,5 +1,5 @@
 bool isLoading;
-	private IEnumerator shortLoading (float waitTime) {
+	private IEnumerator ShortLoading (float waitTime) {
 		if (!isLoading) {
 			isLoading = true;
 
